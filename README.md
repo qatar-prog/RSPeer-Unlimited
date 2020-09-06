@@ -1,6 +1,6 @@
 # RSPeer-Unlimited
 
-***Welcome to the public crack for the RSPeer***
+***Welcome to the public crack for RSPeer***
 
 **Some key details about this crack**
 ```
