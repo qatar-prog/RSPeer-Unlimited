@@ -9,4 +9,9 @@
 3. stop paying for instances
 ```
 
+***Stab in the dark 7/9/20***
+- i've been banned from RSPeer so can't fully test
+- report any issues in the discord!
+
+
 RSPeer Devs, your move.
